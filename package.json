@@ -1,0 +1,22 @@
+{
+  "name": "landing_page_prod",
+  "version": "1.0.0",
+  "description": "Landing page for sentalyze.ai",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sentalyze",
+    "sentiment",
+    "analysis",
+    "sentiments",
+    "feelings",
+    "emotions"
+  ],
+  "author": "Eqarus Inc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
